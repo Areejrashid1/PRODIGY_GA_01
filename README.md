@@ -1,10 +1,10 @@
-GPT-2 Text Generation with Gradio
+**GPT-2 Text Generation with Gradio**
 
 An interactive **Text Generation Model** built using **GPT-2**, fine-tuned for coherent and contextually relevant text generation.
 This project integrates **Gradio** for a simple and user-friendly web interface, allowing anyone to input a prompt and generate meaningful text responses in real time.
 
 
-🚀 Features
+## 🚀 Features
 * Fine-tuned **GPT-2** for text generation
 * **Interactive GUI** with Gradio
 * Built using **Python 3** and **TensorFlow**
@@ -13,7 +13,7 @@ This project integrates **Gradio** for a simple and user-friendly web interface,
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * **Python 3**
 * **TensorFlow**
@@ -86,7 +86,8 @@ Life is not as easy as it seems. The first thing you need to do when trying out 
 
 ## 📸 Screenshot
 
-![App Screenshot](your-screenshot.png)
+<img width="1740" height="612" alt="image" src="https://github.com/user-attachments/assets/a60d733b-e0b2-4f40-8462-7e53fcabc7ad" />
+
 
 ---
 
@@ -106,10 +107,7 @@ Life is not as easy as it seems. The first thing you need to do when trying out 
 
 ---
 
-## 📧 Contact
 
-If you’d like to connect, collaborate, or provide feedback:
-**\[Your Name] – [Your LinkedIn Profile](your-linkedin-url)**
 
 ---
 
